@@ -162,6 +162,13 @@ def main(folder: str) -> None:
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
     state = update_state(state, fetch_release(), now)
     summary = summarize(state, now)
+    old_file = out / "downloads.json"
+    old = json.loads(old_file.read_text()) if old_file.exists() else {}
+    if ({k: v for k, v in old.items() if k != "updated"}
+            == {k: v for k, v in summary.items() if k != "updated"}
+            and str(old.get("updated", ""))[:10] == now.date().isoformat()):
+        print("No change since the last snapshot today.")
+        return
     state_file.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n")
     (out / "downloads.json").write_text(json.dumps(summary, indent=1) + "\n")
     print(f"{summary['downloads']} downloads, {summary['update_checks']} update checks "
