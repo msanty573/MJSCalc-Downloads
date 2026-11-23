@@ -1,13 +1,15 @@
 {
- "updated": "2026-11-22T02:58:44+00:00",
+ "updated": "2026-11-23T00:56:47+00:00",
  "since": "2026-11-22",
- "downloads": 0,
+ "downloads": 1,
  "by_platform": {
   "Linux": 0,
-  "Windows": 0,
+  "Windows": 1,
   "macOS": 0
  },
- "by_version": {},
+ "by_version": {
+  "3.18.4": 1
+ },
  "by_file": {
   "OmniCalc-linux-aarch64.tar.gz": 0,
   "OmniCalc-linux-x86_64.tar.gz": 0,
@@ -16,7 +18,7 @@
   "OmniCalc-Setup-arm64.exe": 0,
   "OmniCalc-Setup-x64.exe": 0,
   "OmniCalc-windows-arm64-portable.zip": 0,
-  "OmniCalc-windows-x64-portable.zip": 0,
+  "OmniCalc-windows-x64-portable.zip": 1,
   "omnicalc.el10.aarch64.rpm": 0,
   "omnicalc.el10.x86_64.rpm": 0,
   "omnicalc.ubuntu.amd64.deb": 0,
@@ -38,6 +40,11 @@
   {
    "date": "2026-11-22",
    "downloads": 0,
+   "update_checks": 0
+  },
+  {
+   "date": "2026-11-23",
+   "downloads": 1,
    "update_checks": 0
   }
  ]
