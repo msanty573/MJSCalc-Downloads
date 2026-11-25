@@ -7,7 +7,7 @@
    "version": "3.18.4"
   },
   "OmniCalc-Setup-x64.exe": {
-   "count": 1,
+   "count": 2,
    "id": 777241407,
    "uploaded": "2026-11-21T23:45:54Z",
    "version": "3.18.4"
@@ -97,7 +97,7 @@
    "version": "3.18.4"
   },
   "update-macos-arm64.json": {
-   "count": 3,
+   "count": 4,
    "id": 777167477,
    "uploaded": "2026-11-21T23:12:53Z",
    "version": "3.18.4"
@@ -115,7 +115,7 @@
    "version": "3.18.4"
   },
   "update-windows-x64.json": {
-   "count": 2,
+   "count": 3,
    "id": 777241783,
    "uploaded": "2026-11-21T23:45:57Z",
    "version": "3.18.4"
@@ -201,11 +201,11 @@
   },
   {
    "date": "2026-11-25",
-   "downloads": 1,
-   "update_checks": 0
+   "downloads": 2,
+   "update_checks": 2
   }
  ],
  "retired": {},
  "since": "2026-11-22",
- "updated": "2026-11-25T02:34:25+00:00"
+ "updated": "2026-11-25T05:00:06+00:00"
 }

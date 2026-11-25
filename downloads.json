@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-25T02:34:25+00:00",
+ "updated": "2026-11-25T05:00:06+00:00",
  "since": "2026-11-22",
- "downloads": 1,
+ "downloads": 2,
  "by_platform": {
   "Linux": 0,
-  "Windows": 1,
+  "Windows": 2,
   "macOS": 0
  },
  "by_version": {
-  "3.18.4": 1
+  "3.18.4": 2
  },
  "by_file": {
   "OmniCalc-linux-aarch64.tar.gz": 0,
@@ -16,7 +16,7 @@
   "OmniCalc-macOS-arm64.dmg": 0,
   "OmniCalc-macOS-x86_64.dmg": 0,
   "OmniCalc-Setup-arm64.exe": 0,
-  "OmniCalc-Setup-x64.exe": 0,
+  "OmniCalc-Setup-x64.exe": 1,
   "OmniCalc-windows-arm64-portable.zip": 0,
   "OmniCalc-windows-x64-portable.zip": 1,
   "omnicalc.el10.aarch64.rpm": 0,
@@ -24,16 +24,16 @@
   "omnicalc.ubuntu.amd64.deb": 0,
   "omnicalc.ubuntu.arm64.deb": 0
  },
- "update_checks": 0,
+ "update_checks": 2,
  "update_checks_by_file": {
   "update-linux-aarch64-deb.json": 0,
   "update-linux-aarch64.json": 0,
   "update-linux-x86_64-deb.json": 0,
   "update-linux-x86_64.json": 0,
-  "update-macos-arm64.json": 0,
+  "update-macos-arm64.json": 1,
   "update-macos-x86_64.json": 0,
   "update-windows-arm64.json": 0,
-  "update-windows-x64.json": 0
+  "update-windows-x64.json": 1
  },
  "note": "downloads = installers and packages downloaded from the downloads page (not installs from the dnf/apt repositories); update_checks = times an installed copy checked for updates",
  "history": [
@@ -54,8 +54,8 @@
   },
   {
    "date": "2026-11-25",
-   "downloads": 1,
-   "update_checks": 0
+   "downloads": 2,
+   "update_checks": 2
   }
  ]
 }
