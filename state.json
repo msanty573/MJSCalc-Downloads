@@ -1,49 +1,49 @@
 {
  "assets": {
   "MJSCalc-Setup-arm64.exe": {
-   "count": 2,
+   "count": 3,
    "id": 793359771,
    "uploaded": "2026-11-25T22:18:55Z",
    "version": "3.19.0"
   },
   "MJSCalc-Setup-x64.exe": {
-   "count": 2,
+   "count": 3,
    "id": 793369357,
    "uploaded": "2026-11-25T22:22:19Z",
    "version": "3.19.0"
   },
   "MJSCalc-linux-aarch64.tar.gz": {
-   "count": 2,
+   "count": 3,
    "id": 793381270,
    "uploaded": "2026-11-25T22:26:33Z",
    "version": "3.19.0"
   },
   "MJSCalc-linux-x86_64.tar.gz": {
-   "count": 2,
+   "count": 3,
    "id": 793374130,
    "uploaded": "2026-11-25T22:24:03Z",
    "version": "3.19.0"
   },
   "MJSCalc-macOS-arm64.dmg": {
-   "count": 2,
+   "count": 3,
    "id": 793346805,
    "uploaded": "2026-11-25T22:14:28Z",
    "version": "3.19.0"
   },
   "MJSCalc-macOS-x86_64.dmg": {
-   "count": 2,
+   "count": 3,
    "id": 793361465,
    "uploaded": "2026-11-25T22:19:29Z",
    "version": "3.19.0"
   },
   "MJSCalc-windows-arm64-portable.zip": {
-   "count": 2,
+   "count": 3,
    "id": 793359762,
    "uploaded": "2026-11-25T22:18:56Z",
    "version": "3.19.0"
   },
   "MJSCalc-windows-x64-portable.zip": {
-   "count": 2,
+   "count": 3,
    "id": 793369358,
    "uploaded": "2026-11-25T22:22:22Z",
    "version": "3.19.0"
@@ -97,25 +97,25 @@
    "version": "3.18.5"
   },
   "mjscalc.el10.aarch64.rpm": {
-   "count": 2,
+   "count": 3,
    "id": 793381271,
    "uploaded": "2026-11-25T22:26:32Z",
    "version": "3.19.0"
   },
   "mjscalc.el10.x86_64.rpm": {
-   "count": 2,
+   "count": 3,
    "id": 793374133,
    "uploaded": "2026-11-25T22:24:01Z",
    "version": "3.19.0"
   },
   "mjscalc.ubuntu.amd64.deb": {
-   "count": 2,
+   "count": 3,
    "id": 793378768,
    "uploaded": "2026-11-25T22:25:30Z",
    "version": "3.19.0"
   },
   "mjscalc.ubuntu.arm64.deb": {
-   "count": 2,
+   "count": 3,
    "id": 793361561,
    "uploaded": "2026-11-25T22:19:30Z",
    "version": "3.19.0"
@@ -169,7 +169,7 @@
    "version": "3.19.0"
   },
   "update-macos-arm64.json": {
-   "count": 1,
+   "count": 2,
    "id": 793347374,
    "uploaded": "2026-11-25T22:14:32Z",
    "version": "3.19.0"
@@ -187,7 +187,7 @@
    "version": "3.19.0"
   },
   "update-windows-x64.json": {
-   "count": 1,
+   "count": 2,
    "id": 793370024,
    "uploaded": "2026-11-25T22:22:25Z",
    "version": "3.19.0"
@@ -273,8 +273,8 @@
   },
   {
    "date": "2026-11-25",
-   "downloads": 38,
-   "update_checks": 20
+   "downloads": 50,
+   "update_checks": 22
   }
  ],
  "retired": {
@@ -348,5 +348,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T22:42:30+00:00"
+ "updated": "2026-11-25T23:38:56+00:00"
 }

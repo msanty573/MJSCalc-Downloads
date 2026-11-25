@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-25T22:42:30+00:00",
+ "updated": "2026-11-25T23:38:56+00:00",
  "since": "2026-11-22",
- "downloads": 38,
+ "downloads": 50,
  "by_platform": {
-  "Linux": 18,
-  "Windows": 14,
-  "macOS": 6
+  "Linux": 24,
+  "Windows": 18,
+  "macOS": 8
  },
  "by_version": {
-  "3.19.0": 24,
+  "3.19.0": 36,
   "3.18.5": 12,
   "unknown": 2
  },
  "by_file": {
-  "MJSCalc-linux-aarch64.tar.gz": 2,
-  "MJSCalc-linux-x86_64.tar.gz": 2,
-  "MJSCalc-macOS-arm64.dmg": 2,
-  "MJSCalc-macOS-x86_64.dmg": 2,
-  "MJSCalc-Setup-arm64.exe": 2,
-  "MJSCalc-Setup-x64.exe": 2,
-  "MJSCalc-windows-arm64-portable.zip": 2,
-  "MJSCalc-windows-x64-portable.zip": 2,
-  "mjscalc.el10.aarch64.rpm": 2,
-  "mjscalc.el10.x86_64.rpm": 2,
-  "mjscalc.ubuntu.amd64.deb": 2,
-  "mjscalc.ubuntu.arm64.deb": 2,
+  "MJSCalc-linux-aarch64.tar.gz": 3,
+  "MJSCalc-linux-x86_64.tar.gz": 3,
+  "MJSCalc-macOS-arm64.dmg": 3,
+  "MJSCalc-macOS-x86_64.dmg": 3,
+  "MJSCalc-Setup-arm64.exe": 3,
+  "MJSCalc-Setup-x64.exe": 3,
+  "MJSCalc-windows-arm64-portable.zip": 3,
+  "MJSCalc-windows-x64-portable.zip": 3,
+  "mjscalc.el10.aarch64.rpm": 3,
+  "mjscalc.el10.x86_64.rpm": 3,
+  "mjscalc.ubuntu.amd64.deb": 3,
+  "mjscalc.ubuntu.arm64.deb": 3,
   "OmniCalc-linux-aarch64.tar.gz": 1,
   "OmniCalc-linux-x86_64.tar.gz": 1,
   "OmniCalc-macOS-arm64.dmg": 1,
@@ -38,16 +38,16 @@
   "omnicalc.ubuntu.amd64.deb": 1,
   "omnicalc.ubuntu.arm64.deb": 1
  },
- "update_checks": 20,
+ "update_checks": 22,
  "update_checks_by_file": {
   "update-linux-aarch64-deb.json": 2,
   "update-linux-aarch64.json": 2,
   "update-linux-x86_64-deb.json": 2,
   "update-linux-x86_64.json": 3,
-  "update-macos-arm64.json": 4,
+  "update-macos-arm64.json": 5,
   "update-macos-x86_64.json": 2,
   "update-windows-arm64.json": 2,
-  "update-windows-x64.json": 3
+  "update-windows-x64.json": 4
  },
  "note": "downloads = installers and packages downloaded from the downloads page (not installs from the dnf/apt repositories); update_checks = times an installed copy checked for updates",
  "history": [
@@ -68,8 +68,8 @@
   },
   {
    "date": "2026-11-25",
-   "downloads": 38,
-   "update_checks": 20
+   "downloads": 50,
+   "update_checks": 22
   }
  ]
 }
