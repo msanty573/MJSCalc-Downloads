@@ -4,103 +4,115 @@
    "count": 0,
    "id": 793359771,
    "uploaded": "2026-11-25T22:18:55Z",
-   "version": "3.19.0"
+   "version": null
+  },
+  "MJSCalc-Setup-x64.exe": {
+   "count": 0,
+   "id": 793369357,
+   "uploaded": "2026-11-25T22:22:19Z",
+   "version": null
   },
   "MJSCalc-macOS-arm64.dmg": {
    "count": 0,
    "id": 793346805,
    "uploaded": "2026-11-25T22:14:28Z",
-   "version": "3.19.0"
+   "version": null
   },
   "MJSCalc-macOS-x86_64.dmg": {
    "count": 0,
    "id": 793361465,
    "uploaded": "2026-11-25T22:19:29Z",
-   "version": "3.19.0"
+   "version": null
   },
   "MJSCalc-windows-arm64-portable.zip": {
    "count": 0,
    "id": 793359762,
    "uploaded": "2026-11-25T22:18:56Z",
-   "version": "3.19.0"
+   "version": null
+  },
+  "MJSCalc-windows-x64-portable.zip": {
+   "count": 0,
+   "id": 793369358,
+   "uploaded": "2026-11-25T22:22:22Z",
+   "version": null
   },
   "OmniCalc-Setup-arm64.exe": {
    "count": 1,
    "id": 790237048,
    "uploaded": "2026-11-25T05:42:50Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-Setup-x64.exe": {
    "count": 1,
    "id": 790200215,
    "uploaded": "2026-11-25T05:28:40Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-linux-aarch64.tar.gz": {
    "count": 1,
    "id": 790172244,
    "uploaded": "2026-11-25T05:17:09Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-linux-x86_64.tar.gz": {
    "count": 1,
    "id": 790164298,
    "uploaded": "2026-11-25T05:14:28Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-macOS-arm64.dmg": {
    "count": 1,
    "id": 790136217,
    "uploaded": "2026-11-25T05:04:02Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-macOS-x86_64.dmg": {
    "count": 1,
    "id": 790149712,
    "uploaded": "2026-11-25T05:08:57Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-windows-arm64-portable.zip": {
    "count": 1,
    "id": 790237045,
    "uploaded": "2026-11-25T05:42:52Z",
-   "version": "3.18.5"
+   "version": null
   },
   "OmniCalc-windows-x64-portable.zip": {
    "count": 1,
    "id": 790200221,
    "uploaded": "2026-11-25T05:28:39Z",
-   "version": "3.18.5"
+   "version": null
   },
   "mjscalc.ubuntu.arm64.deb": {
    "count": 0,
    "id": 793361561,
    "uploaded": "2026-11-25T22:19:30Z",
-   "version": "3.19.0"
+   "version": null
   },
   "omnicalc.el10.aarch64.rpm": {
    "count": 1,
    "id": 790172247,
    "uploaded": "2026-11-25T05:17:06Z",
-   "version": "3.18.5"
+   "version": null
   },
   "omnicalc.el10.x86_64.rpm": {
    "count": 1,
    "id": 790164299,
    "uploaded": "2026-11-25T05:14:27Z",
-   "version": "3.18.5"
+   "version": null
   },
   "omnicalc.ubuntu.amd64.deb": {
    "count": 1,
    "id": 790156210,
    "uploaded": "2026-11-25T05:11:12Z",
-   "version": "3.18.5"
+   "version": null
   },
   "omnicalc.ubuntu.arm64.deb": {
    "count": 1,
    "id": 790165499,
    "uploaded": "2026-11-25T05:14:51Z",
-   "version": "3.18.5"
+   "version": null
   },
   "update-linux-aarch64-deb.json": {
    "count": 0,
@@ -145,10 +157,10 @@
    "version": "3.19.0"
   },
   "update-windows-x64.json": {
-   "count": 1,
-   "id": 790200524,
-   "uploaded": "2026-11-25T05:28:43Z",
-   "version": "3.19.0"
+   "count": 0,
+   "id": 793370024,
+   "uploaded": "2026-11-25T22:22:25Z",
+   "version": null
   }
  },
  "excluded": {
@@ -298,9 +310,10 @@
    "3.19.0": 1
   },
   "update-windows-x64.json": {
-   "3.18.4": 3
+   "3.18.4": 3,
+   "3.19.0": 1
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T22:20:59+00:00"
+ "updated": "2026-11-25T22:23:14+00:00"
 }

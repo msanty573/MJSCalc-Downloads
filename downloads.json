@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:20:59+00:00",
+ "updated": "2026-11-25T22:23:14+00:00",
  "since": "2026-11-22",
  "downloads": 14,
  "by_platform": {
@@ -8,14 +8,15 @@
   "macOS": 2
  },
  "by_version": {
-  "3.18.5": 12,
-  "unknown": 2
+  "unknown": 14
  },
  "by_file": {
   "MJSCalc-macOS-arm64.dmg": 0,
   "MJSCalc-macOS-x86_64.dmg": 0,
   "MJSCalc-Setup-arm64.exe": 0,
+  "MJSCalc-Setup-x64.exe": 0,
   "MJSCalc-windows-arm64-portable.zip": 0,
+  "MJSCalc-windows-x64-portable.zip": 0,
   "mjscalc.ubuntu.arm64.deb": 0,
   "OmniCalc-linux-aarch64.tar.gz": 1,
   "OmniCalc-linux-x86_64.tar.gz": 1,
