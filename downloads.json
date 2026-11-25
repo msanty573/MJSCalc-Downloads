@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:08:33+00:00",
+ "updated": "2026-11-25T22:13:00+00:00",
  "since": "2026-11-22",
  "downloads": 14,
  "by_platform": {
@@ -24,13 +24,13 @@
   "omnicalc.ubuntu.amd64.deb": 1,
   "omnicalc.ubuntu.arm64.deb": 1
  },
- "update_checks": 10,
+ "update_checks": 12,
  "update_checks_by_file": {
   "update-linux-aarch64-deb.json": 1,
   "update-linux-aarch64.json": 1,
   "update-linux-x86_64-deb.json": 1,
-  "update-linux-x86_64.json": 1,
-  "update-macos-arm64.json": 2,
+  "update-linux-x86_64.json": 2,
+  "update-macos-arm64.json": 3,
   "update-macos-x86_64.json": 1,
   "update-windows-arm64.json": 1,
   "update-windows-x64.json": 2
@@ -55,7 +55,7 @@
   {
    "date": "2026-11-25",
    "downloads": 14,
-   "update_checks": 10
+   "update_checks": 12
   }
  ]
 }

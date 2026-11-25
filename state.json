@@ -91,13 +91,13 @@
    "version": null
   },
   "update-linux-x86_64.json": {
-   "count": 1,
+   "count": 2,
    "id": 790164967,
    "uploaded": "2026-11-25T05:14:31Z",
    "version": null
   },
   "update-macos-arm64.json": {
-   "count": 1,
+   "count": 2,
    "id": 790136878,
    "uploaded": "2026-11-25T05:04:04Z",
    "version": null
@@ -202,7 +202,7 @@
   {
    "date": "2026-11-25",
    "downloads": 14,
-   "update_checks": 10
+   "update_checks": 12
   }
  ],
  "retired": {
@@ -268,5 +268,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T13:08:33+00:00"
+ "updated": "2026-11-25T22:13:00+00:00"
 }
