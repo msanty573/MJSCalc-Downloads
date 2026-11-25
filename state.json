@@ -1,9 +1,27 @@
 {
  "assets": {
+  "MJSCalc-Setup-arm64.exe": {
+   "count": 0,
+   "id": 793359771,
+   "uploaded": "2026-11-25T22:18:55Z",
+   "version": "3.19.0"
+  },
   "MJSCalc-macOS-arm64.dmg": {
    "count": 0,
    "id": 793346805,
    "uploaded": "2026-11-25T22:14:28Z",
+   "version": "3.19.0"
+  },
+  "MJSCalc-macOS-x86_64.dmg": {
+   "count": 0,
+   "id": 793361465,
+   "uploaded": "2026-11-25T22:19:29Z",
+   "version": "3.19.0"
+  },
+  "MJSCalc-windows-arm64-portable.zip": {
+   "count": 0,
+   "id": 793359762,
+   "uploaded": "2026-11-25T22:18:56Z",
    "version": "3.19.0"
   },
   "OmniCalc-Setup-arm64.exe": {
@@ -54,6 +72,12 @@
    "uploaded": "2026-11-25T05:28:39Z",
    "version": "3.18.5"
   },
+  "mjscalc.ubuntu.arm64.deb": {
+   "count": 0,
+   "id": 793361561,
+   "uploaded": "2026-11-25T22:19:30Z",
+   "version": "3.19.0"
+  },
   "omnicalc.el10.aarch64.rpm": {
    "count": 1,
    "id": 790172247,
@@ -79,9 +103,9 @@
    "version": "3.18.5"
   },
   "update-linux-aarch64-deb.json": {
-   "count": 1,
-   "id": 790165931,
-   "uploaded": "2026-11-25T05:14:54Z",
+   "count": 0,
+   "id": 793361906,
+   "uploaded": "2026-11-25T22:19:33Z",
    "version": "3.19.0"
   },
   "update-linux-aarch64.json": {
@@ -109,15 +133,15 @@
    "version": "3.19.0"
   },
   "update-macos-x86_64.json": {
-   "count": 1,
-   "id": 790150118,
-   "uploaded": "2026-11-25T05:08:59Z",
+   "count": 0,
+   "id": 793361828,
+   "uploaded": "2026-11-25T22:19:32Z",
    "version": "3.19.0"
   },
   "update-windows-arm64.json": {
-   "count": 1,
-   "id": 790237434,
-   "uploaded": "2026-11-25T05:42:55Z",
+   "count": 0,
+   "id": 793360192,
+   "uploaded": "2026-11-25T22:18:58Z",
    "version": "3.19.0"
   },
   "update-windows-x64.json": {
@@ -249,7 +273,8 @@
    "3.18.4": 1
   },
   "update-linux-aarch64-deb.json": {
-   "3.18.4": 1
+   "3.18.4": 1,
+   "3.19.0": 1
   },
   "update-linux-aarch64.json": {
    "3.18.4": 2
@@ -265,15 +290,17 @@
    "unknown": 2
   },
   "update-macos-x86_64.json": {
-   "3.18.4": 2
+   "3.18.4": 2,
+   "3.19.0": 1
   },
   "update-windows-arm64.json": {
-   "3.18.4": 2
+   "3.18.4": 2,
+   "3.19.0": 1
   },
   "update-windows-x64.json": {
    "3.18.4": 3
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T22:16:39+00:00"
+ "updated": "2026-11-25T22:20:59+00:00"
 }
