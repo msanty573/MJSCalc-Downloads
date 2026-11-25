@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:13:00+00:00",
+ "updated": "2026-11-25T22:16:39+00:00",
  "since": "2026-11-22",
  "downloads": 14,
  "by_platform": {
@@ -8,9 +8,11 @@
   "macOS": 2
  },
  "by_version": {
-  "unknown": 14
+  "3.18.5": 12,
+  "unknown": 2
  },
  "by_file": {
+  "MJSCalc-macOS-arm64.dmg": 0,
   "OmniCalc-linux-aarch64.tar.gz": 1,
   "OmniCalc-linux-x86_64.tar.gz": 1,
   "OmniCalc-macOS-arm64.dmg": 1,
