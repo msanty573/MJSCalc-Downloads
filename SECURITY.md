@@ -1,12 +1,12 @@
 # Security policy
 
-Thank you for helping keep OmniCalc and its users safe.
+Thank you for helping keep MJSCalc and its users safe.
 
 ## Supported versions
 
-Only the **latest release** of OmniCalc receives security fixes. **Help → Check for
+Only the **latest release** of MJSCalc receives security fixes. **Help → Check for
 Updates…** in the app installs it, as do `dnf` and `apt` for the Linux packages. The
-newest downloads are always at <https://mjsapps.net/omnicalc/>.
+newest downloads are always at <https://mjsapps.net/mjscalc/>.
 
 | Version | Supported |
 |---|---|
@@ -24,7 +24,7 @@ them privately in either of these ways:
 
 Please include:
 
-- the OmniCalc version and build — shown in **Help → About OmniCalc** (for example
+- the MJSCalc version and build — shown in **Help → About MJSCalc** (for example
   *3.18.3, macOS · Intel (x86_64)*), or which download or page it affects;
 - your operating system and version;
 - what the problem is and the steps to reproduce it, and what an attacker could do with it.
@@ -40,16 +40,16 @@ Please include:
 
 ## Scope
 
-- The OmniCalc apps for macOS, Windows and Linux, and their installers and packages.
-- The update information OmniCalc downloads (`update-*.json`) and the signed `dnf` and
+- The MJSCalc apps for macOS, Windows and Linux, and their installers and packages.
+- The update information MJSCalc downloads (`update-*.json`) and the signed `dnf` and
   `apt` repositories at <https://msanty573.github.io/OmniCalc-Downloads/>.
-- The browser demo at <https://mjsapps.net/omnicalc/try/>.
+- The browser demo at <https://mjsapps.net/mjscalc/try/>.
 
-## How OmniCalc handles your data
+## How MJSCalc handles your data
 
-OmniCalc works entirely on your computer. Your calculations, budgets, plans and settings
+MJSCalc works entirely on your computer. Your calculations, budgets, plans and settings
 are stored locally and are never sent anywhere. The app's only network connection is
-**Check for Updates**: it downloads OmniCalc's update information and, when you choose to
+**Check for Updates**: it downloads MJSCalc's update information and, when you choose to
 update, the new version — both over HTTPS from GitHub, checked against a SHA-256 checksum
 before use. The automatic daily check can be turned off in the **Help** menu. The browser
 demo runs in your browser the same way: what you type stays on your device.
