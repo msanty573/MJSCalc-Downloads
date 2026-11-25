@@ -1,49 +1,49 @@
 {
  "assets": {
   "MJSCalc-Setup-arm64.exe": {
-   "count": 0,
+   "count": 2,
    "id": 793359771,
    "uploaded": "2026-11-25T22:18:55Z",
    "version": "3.19.0"
   },
   "MJSCalc-Setup-x64.exe": {
-   "count": 0,
+   "count": 2,
    "id": 793369357,
    "uploaded": "2026-11-25T22:22:19Z",
    "version": "3.19.0"
   },
   "MJSCalc-linux-aarch64.tar.gz": {
-   "count": 0,
+   "count": 2,
    "id": 793381270,
    "uploaded": "2026-11-25T22:26:33Z",
    "version": "3.19.0"
   },
   "MJSCalc-linux-x86_64.tar.gz": {
-   "count": 0,
+   "count": 2,
    "id": 793374130,
    "uploaded": "2026-11-25T22:24:03Z",
    "version": "3.19.0"
   },
   "MJSCalc-macOS-arm64.dmg": {
-   "count": 0,
+   "count": 2,
    "id": 793346805,
    "uploaded": "2026-11-25T22:14:28Z",
    "version": "3.19.0"
   },
   "MJSCalc-macOS-x86_64.dmg": {
-   "count": 0,
+   "count": 2,
    "id": 793361465,
    "uploaded": "2026-11-25T22:19:29Z",
    "version": "3.19.0"
   },
   "MJSCalc-windows-arm64-portable.zip": {
-   "count": 0,
+   "count": 2,
    "id": 793359762,
    "uploaded": "2026-11-25T22:18:56Z",
    "version": "3.19.0"
   },
   "MJSCalc-windows-x64-portable.zip": {
-   "count": 0,
+   "count": 2,
    "id": 793369358,
    "uploaded": "2026-11-25T22:22:22Z",
    "version": "3.19.0"
@@ -97,25 +97,25 @@
    "version": "3.18.5"
   },
   "mjscalc.el10.aarch64.rpm": {
-   "count": 0,
+   "count": 2,
    "id": 793381271,
    "uploaded": "2026-11-25T22:26:32Z",
    "version": "3.19.0"
   },
   "mjscalc.el10.x86_64.rpm": {
-   "count": 0,
+   "count": 2,
    "id": 793374133,
    "uploaded": "2026-11-25T22:24:01Z",
    "version": "3.19.0"
   },
   "mjscalc.ubuntu.amd64.deb": {
-   "count": 0,
+   "count": 2,
    "id": 793378768,
    "uploaded": "2026-11-25T22:25:30Z",
    "version": "3.19.0"
   },
   "mjscalc.ubuntu.arm64.deb": {
-   "count": 0,
+   "count": 2,
    "id": 793361561,
    "uploaded": "2026-11-25T22:19:30Z",
    "version": "3.19.0"
@@ -145,49 +145,49 @@
    "version": "3.18.5"
   },
   "update-linux-aarch64-deb.json": {
-   "count": 0,
+   "count": 1,
    "id": 793361906,
    "uploaded": "2026-11-25T22:19:33Z",
    "version": "3.19.0"
   },
   "update-linux-aarch64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793382101,
    "uploaded": "2026-11-25T22:26:36Z",
    "version": "3.19.0"
   },
   "update-linux-x86_64-deb.json": {
-   "count": 0,
+   "count": 1,
    "id": 793379204,
    "uploaded": "2026-11-25T22:25:33Z",
    "version": "3.19.0"
   },
   "update-linux-x86_64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793374688,
    "uploaded": "2026-11-25T22:24:06Z",
    "version": "3.19.0"
   },
   "update-macos-arm64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793347374,
    "uploaded": "2026-11-25T22:14:32Z",
    "version": "3.19.0"
   },
   "update-macos-x86_64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793361828,
    "uploaded": "2026-11-25T22:19:32Z",
    "version": "3.19.0"
   },
   "update-windows-arm64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793360192,
    "uploaded": "2026-11-25T22:18:58Z",
    "version": "3.19.0"
   },
   "update-windows-x64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793370024,
    "uploaded": "2026-11-25T22:22:25Z",
    "version": "3.19.0"
@@ -273,8 +273,8 @@
   },
   {
    "date": "2026-11-25",
-   "downloads": 14,
-   "update_checks": 12
+   "downloads": 38,
+   "update_checks": 20
   }
  ],
  "retired": {
@@ -348,5 +348,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T22:36:26+00:00"
+ "updated": "2026-11-25T22:42:30+00:00"
 }
