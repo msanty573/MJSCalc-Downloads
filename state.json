@@ -4,115 +4,127 @@
    "count": 0,
    "id": 793359771,
    "uploaded": "2026-11-25T22:18:55Z",
-   "version": null
+   "version": "3.19.0"
   },
   "MJSCalc-Setup-x64.exe": {
    "count": 0,
    "id": 793369357,
    "uploaded": "2026-11-25T22:22:19Z",
-   "version": null
+   "version": "3.19.0"
+  },
+  "MJSCalc-linux-x86_64.tar.gz": {
+   "count": 0,
+   "id": 793374130,
+   "uploaded": "2026-11-25T22:24:03Z",
+   "version": "3.19.0"
   },
   "MJSCalc-macOS-arm64.dmg": {
    "count": 0,
    "id": 793346805,
    "uploaded": "2026-11-25T22:14:28Z",
-   "version": null
+   "version": "3.19.0"
   },
   "MJSCalc-macOS-x86_64.dmg": {
    "count": 0,
    "id": 793361465,
    "uploaded": "2026-11-25T22:19:29Z",
-   "version": null
+   "version": "3.19.0"
   },
   "MJSCalc-windows-arm64-portable.zip": {
    "count": 0,
    "id": 793359762,
    "uploaded": "2026-11-25T22:18:56Z",
-   "version": null
+   "version": "3.19.0"
   },
   "MJSCalc-windows-x64-portable.zip": {
    "count": 0,
    "id": 793369358,
    "uploaded": "2026-11-25T22:22:22Z",
-   "version": null
+   "version": "3.19.0"
   },
   "OmniCalc-Setup-arm64.exe": {
    "count": 1,
    "id": 790237048,
    "uploaded": "2026-11-25T05:42:50Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-Setup-x64.exe": {
    "count": 1,
    "id": 790200215,
    "uploaded": "2026-11-25T05:28:40Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-linux-aarch64.tar.gz": {
    "count": 1,
    "id": 790172244,
    "uploaded": "2026-11-25T05:17:09Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-linux-x86_64.tar.gz": {
    "count": 1,
    "id": 790164298,
    "uploaded": "2026-11-25T05:14:28Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-macOS-arm64.dmg": {
    "count": 1,
    "id": 790136217,
    "uploaded": "2026-11-25T05:04:02Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-macOS-x86_64.dmg": {
    "count": 1,
    "id": 790149712,
    "uploaded": "2026-11-25T05:08:57Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-windows-arm64-portable.zip": {
    "count": 1,
    "id": 790237045,
    "uploaded": "2026-11-25T05:42:52Z",
-   "version": null
+   "version": "3.18.5"
   },
   "OmniCalc-windows-x64-portable.zip": {
    "count": 1,
    "id": 790200221,
    "uploaded": "2026-11-25T05:28:39Z",
-   "version": null
+   "version": "3.18.5"
+  },
+  "mjscalc.el10.x86_64.rpm": {
+   "count": 0,
+   "id": 793374133,
+   "uploaded": "2026-11-25T22:24:01Z",
+   "version": "3.19.0"
   },
   "mjscalc.ubuntu.arm64.deb": {
    "count": 0,
    "id": 793361561,
    "uploaded": "2026-11-25T22:19:30Z",
-   "version": null
+   "version": "3.19.0"
   },
   "omnicalc.el10.aarch64.rpm": {
    "count": 1,
    "id": 790172247,
    "uploaded": "2026-11-25T05:17:06Z",
-   "version": null
+   "version": "3.18.5"
   },
   "omnicalc.el10.x86_64.rpm": {
    "count": 1,
    "id": 790164299,
    "uploaded": "2026-11-25T05:14:27Z",
-   "version": null
+   "version": "3.18.5"
   },
   "omnicalc.ubuntu.amd64.deb": {
    "count": 1,
    "id": 790156210,
    "uploaded": "2026-11-25T05:11:12Z",
-   "version": null
+   "version": "3.18.5"
   },
   "omnicalc.ubuntu.arm64.deb": {
    "count": 1,
    "id": 790165499,
    "uploaded": "2026-11-25T05:14:51Z",
-   "version": null
+   "version": "3.18.5"
   },
   "update-linux-aarch64-deb.json": {
    "count": 0,
@@ -133,9 +145,9 @@
    "version": "3.19.0"
   },
   "update-linux-x86_64.json": {
-   "count": 2,
-   "id": 790164967,
-   "uploaded": "2026-11-25T05:14:31Z",
+   "count": 0,
+   "id": 793374688,
+   "uploaded": "2026-11-25T22:24:06Z",
    "version": "3.19.0"
   },
   "update-macos-arm64.json": {
@@ -160,7 +172,7 @@
    "count": 0,
    "id": 793370024,
    "uploaded": "2026-11-25T22:22:25Z",
-   "version": null
+   "version": "3.19.0"
   }
  },
  "excluded": {
@@ -295,7 +307,8 @@
    "3.18.4": 1
   },
   "update-linux-x86_64.json": {
-   "3.18.4": 2
+   "3.18.4": 2,
+   "3.19.0": 2
   },
   "update-macos-arm64.json": {
    "3.18.4": 4,
@@ -315,5 +328,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-25T22:23:14+00:00"
+ "updated": "2026-11-25T22:24:58+00:00"
 }
