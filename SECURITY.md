@@ -42,7 +42,7 @@ Please include:
 
 - The MJSCalc apps for macOS, Windows and Linux, and their installers and packages.
 - The update information MJSCalc downloads (`update-*.json`) and the signed `dnf` and
-  `apt` repositories at <https://msanty573.github.io/OmniCalc-Downloads/>.
+  `apt` repositories at <https://msanty573.github.io/MJSCalc-Downloads/>.
 - The browser demo at <https://mjsapps.net/mjscalc/try/>.
 
 ## How MJSCalc handles your data

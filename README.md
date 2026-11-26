@@ -6,23 +6,23 @@ every subject. This repository holds downloads only; the source code is not here
 **Easiest:** <https://mjsapps.net/mjscalc/> recommends the right file for your computer.
 Not sure yet? [Try it in your browser first](https://mjsapps.net/mjscalc/try/).
 
-**All files:** <https://github.com/msanty573/OmniCalc-Downloads/releases/tag/latest> (the
+**All files:** <https://github.com/msanty573/MJSCalc-Downloads/releases/tag/latest> (the
 release notes list which version each file is).
 
 | Computer | File |
 |---|---|
-| Mac with Apple silicon (M1 or newer) | [MJSCalc-macOS-arm64.dmg](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-macOS-arm64.dmg) |
-| Mac with an Intel processor | [MJSCalc-macOS-x86_64.dmg](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-macOS-x86_64.dmg) |
-| Windows (Intel or AMD) — installer | [MJSCalc-Setup-x64.exe](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-Setup-x64.exe) |
-| Windows (Intel or AMD) — portable zip | [MJSCalc-windows-x64-portable.zip](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-windows-x64-portable.zip) |
-| Windows on ARM — installer | [MJSCalc-Setup-arm64.exe](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-Setup-arm64.exe) |
-| Windows on ARM — portable zip | [MJSCalc-windows-arm64-portable.zip](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-windows-arm64-portable.zip) |
-| Linux (Intel or AMD) — tar.gz | [MJSCalc-linux-x86_64.tar.gz](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-linux-x86_64.tar.gz) |
-| Linux (Intel or AMD) — RPM (RHEL, AlmaLinux, Rocky, Fedora) | [mjscalc.el10.x86_64.rpm](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/mjscalc.el10.x86_64.rpm) |
-| Linux (Intel or AMD) — .deb (Ubuntu 26.04+) | [mjscalc.ubuntu.amd64.deb](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/mjscalc.ubuntu.amd64.deb) |
-| Linux on ARM — tar.gz | [MJSCalc-linux-aarch64.tar.gz](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/MJSCalc-linux-aarch64.tar.gz) |
-| Linux on ARM — RPM | [mjscalc.el10.aarch64.rpm](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/mjscalc.el10.aarch64.rpm) |
-| Linux on ARM — .deb (Ubuntu 26.04+) | [mjscalc.ubuntu.arm64.deb](https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/mjscalc.ubuntu.arm64.deb) |
+| Mac with Apple silicon (M1 or newer) | [MJSCalc-macOS-arm64.dmg](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-macOS-arm64.dmg) |
+| Mac with an Intel processor | [MJSCalc-macOS-x86_64.dmg](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-macOS-x86_64.dmg) |
+| Windows (Intel or AMD) — installer | [MJSCalc-Setup-x64.exe](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-Setup-x64.exe) |
+| Windows (Intel or AMD) — portable zip | [MJSCalc-windows-x64-portable.zip](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-windows-x64-portable.zip) |
+| Windows on ARM — installer | [MJSCalc-Setup-arm64.exe](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-Setup-arm64.exe) |
+| Windows on ARM — portable zip | [MJSCalc-windows-arm64-portable.zip](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-windows-arm64-portable.zip) |
+| Linux (Intel or AMD) — tar.gz | [MJSCalc-linux-x86_64.tar.gz](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-linux-x86_64.tar.gz) |
+| Linux (Intel or AMD) — RPM (RHEL, AlmaLinux, Rocky, Fedora) | [mjscalc.el10.x86_64.rpm](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/mjscalc.el10.x86_64.rpm) |
+| Linux (Intel or AMD) — .deb (Ubuntu 26.04+) | [mjscalc.ubuntu.amd64.deb](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/mjscalc.ubuntu.amd64.deb) |
+| Linux on ARM — tar.gz | [MJSCalc-linux-aarch64.tar.gz](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/MJSCalc-linux-aarch64.tar.gz) |
+| Linux on ARM — RPM | [mjscalc.el10.aarch64.rpm](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/mjscalc.el10.aarch64.rpm) |
+| Linux on ARM — .deb (Ubuntu 26.04+) | [mjscalc.ubuntu.arm64.deb](https://github.com/msanty573/MJSCalc-Downloads/releases/download/latest/mjscalc.ubuntu.arm64.deb) |
 
 **System requirements:** macOS 12 Monterey or newer · 64-bit Windows 10 or 11 (Windows 11
 on ARM PCs) · 64-bit Linux. MJSCalc uses about 250–350 MB of memory and 130–220 MB of disk
@@ -44,8 +44,8 @@ first launch shows a warning:
   the tar.gz and run `./install.sh`. To get RPM updates through dnf, add the repository once:
 
   ```
-  sudo rpm --import https://msanty573.github.io/OmniCalc-Downloads/RPM-GPG-KEY-omnicalc
-  sudo curl -o /etc/yum.repos.d/omnicalc.repo https://msanty573.github.io/OmniCalc-Downloads/omnicalc.repo
+  sudo rpm --import https://msanty573.github.io/MJSCalc-Downloads/RPM-GPG-KEY-mjscalc
+  sudo curl -o /etc/yum.repos.d/mjscalc.repo https://msanty573.github.io/MJSCalc-Downloads/mjscalc.repo
   ```
 
 ## Updates
