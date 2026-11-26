@@ -1,0 +1,7 @@
+[mjscalc]
+name=MJSCalc
+baseurl=https://msanty573.github.io/MJSCalc-Downloads/rpm/el10/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=https://msanty573.github.io/MJSCalc-Downloads/RPM-GPG-KEY-mjscalc
+metadata_expire=6h
