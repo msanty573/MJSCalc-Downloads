@@ -1,4 +1,4 @@
-# MJSCalc downloads
+# Download MJSCalc
 
 Installers for **MJSCalc** by [MJS Applications](https://mjsapps.net) — one calculator for
 every subject. This repository holds downloads only; the source code is not here.
@@ -39,8 +39,7 @@ first launch shows a warning:
   also Control-click MJSCalc, choose **Open**, then **Open** again.)
 - **Windows:** if SmartScreen says "Windows protected your PC", click **More info →
   Run anyway**.
-- **Linux:** install the .deb (`sudo apt install ./mjscalc.ubuntu.*.deb`, which also sets
-  up updates through apt) or the RPM (`sudo dnf install ./mjscalc.el10.*.rpm`), or extract
+- **Linux:** install the .deb (`sudo apt install ./mjscalc.ubuntu.*.deb`) or the RPM (`sudo dnf install ./mjscalc.el10.*.rpm`), or extract
   the tar.gz and run `./install.sh`. To get RPM updates through dnf, add the repository once:
 
   ```
