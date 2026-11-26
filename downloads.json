@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:36:35+00:00",
+ "updated": "2026-11-26T02:41:13+00:00",
  "since": "2026-11-22",
  "downloads": 78,
  "by_platform": {
@@ -8,10 +8,10 @@
   "macOS": 10
  },
  "by_version": {
-  "3.19.1": 12,
+  "3.19.1": 24,
   "3.19.0": 36,
   "3.18.5": 12,
-  "unknown": 18
+  "unknown": 6
  },
  "by_file": {
   "MJSCalc-linux-aarch64.tar.gz": 6,

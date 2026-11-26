@@ -4,49 +4,49 @@
    "count": 0,
    "id": 794013955,
    "uploaded": "2026-11-26T02:30:55Z",
-   "version": null
+   "version": "3.19.2"
   },
   "MJSCalc-Setup-x64.exe": {
    "count": 0,
    "id": 794024079,
    "uploaded": "2026-11-26T02:34:49Z",
-   "version": null
+   "version": "3.19.2"
   },
   "MJSCalc-linux-aarch64.tar.gz": {
    "count": 3,
    "id": 793615955,
    "uploaded": "2026-11-25T23:52:47Z",
-   "version": null
+   "version": "3.19.1"
   },
   "MJSCalc-linux-x86_64.tar.gz": {
    "count": 3,
    "id": 793607364,
    "uploaded": "2026-11-25T23:48:54Z",
-   "version": null
+   "version": "3.19.1"
   },
   "MJSCalc-macOS-arm64.dmg": {
    "count": 0,
    "id": 794007407,
    "uploaded": "2026-11-26T02:28:00Z",
-   "version": null
+   "version": "3.19.2"
   },
   "MJSCalc-macOS-x86_64.dmg": {
    "count": 0,
    "id": 794020003,
    "uploaded": "2026-11-26T02:33:01Z",
-   "version": null
+   "version": "3.19.2"
   },
   "MJSCalc-windows-arm64-portable.zip": {
    "count": 0,
    "id": 794013946,
    "uploaded": "2026-11-26T02:30:59Z",
-   "version": null
+   "version": "3.19.2"
   },
   "MJSCalc-windows-x64-portable.zip": {
    "count": 0,
    "id": 794024080,
    "uploaded": "2026-11-26T02:34:55Z",
-   "version": null
+   "version": "3.19.2"
   },
   "OmniCalc-Setup-arm64.exe": {
    "count": 1,
@@ -100,25 +100,25 @@
    "count": 3,
    "id": 793615954,
    "uploaded": "2026-11-25T23:52:44Z",
-   "version": null
+   "version": "3.19.1"
   },
   "mjscalc.el10.x86_64.rpm": {
    "count": 3,
    "id": 793607363,
    "uploaded": "2026-11-25T23:48:52Z",
-   "version": null
+   "version": "3.19.1"
   },
   "mjscalc.ubuntu.amd64.deb": {
-   "count": 3,
-   "id": 793614033,
-   "uploaded": "2026-11-25T23:51:52Z",
-   "version": null
+   "count": 0,
+   "id": 794036280,
+   "uploaded": "2026-11-26T02:38:54Z",
+   "version": "3.19.2"
   },
   "mjscalc.ubuntu.arm64.deb": {
    "count": 0,
    "id": 794025055,
    "uploaded": "2026-11-26T02:34:54Z",
-   "version": null
+   "version": "3.19.1"
   },
   "omnicalc.el10.aarch64.rpm": {
    "count": 1,
@@ -148,7 +148,7 @@
    "count": 0,
    "id": 794025409,
    "uploaded": "2026-11-26T02:34:57Z",
-   "version": null
+   "version": "3.19.2"
   },
   "update-linux-aarch64.json": {
    "count": 0,
@@ -158,9 +158,9 @@
   },
   "update-linux-x86_64-deb.json": {
    "count": 0,
-   "id": 793994353,
-   "uploaded": "2026-11-26T02:23:03Z",
-   "version": "3.19.1"
+   "id": 794036746,
+   "uploaded": "2026-11-26T02:38:56Z",
+   "version": "3.19.2"
   },
   "update-linux-x86_64.json": {
    "count": 0,
@@ -190,7 +190,7 @@
    "count": 0,
    "id": 794025450,
    "uploaded": "2026-11-26T02:34:58Z",
-   "version": null
+   "version": "3.19.2"
   }
  },
  "excluded": {
@@ -344,7 +344,8 @@
    "3.19.0": 3
   },
   "mjscalc.ubuntu.amd64.deb": {
-   "3.19.0": 3
+   "3.19.0": 3,
+   "unknown": 3
   },
   "mjscalc.ubuntu.arm64.deb": {
    "3.19.0": 3,
@@ -373,7 +374,8 @@
   },
   "update-linux-x86_64-deb.json": {
    "3.18.4": 1,
-   "3.19.0": 2
+   "3.19.0": 2,
+   "3.19.1": 0
   },
   "update-linux-x86_64.json": {
    "3.18.4": 2,
@@ -402,5 +404,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-26T02:36:35+00:00"
+ "updated": "2026-11-26T02:41:13+00:00"
 }
