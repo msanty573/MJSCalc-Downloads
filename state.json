@@ -37,13 +37,13 @@
    "version": "3.19.2"
   },
   "MJSCalc-windows-arm64-portable.zip": {
-   "count": 1,
+   "count": 2,
    "id": 794013946,
    "uploaded": "2026-11-26T02:30:59Z",
    "version": "3.19.2"
   },
   "MJSCalc-windows-x64-portable.zip": {
-   "count": 1,
+   "count": 2,
    "id": 794024080,
    "uploaded": "2026-11-26T02:34:55Z",
    "version": "3.19.2"
@@ -283,7 +283,7 @@
   },
   {
    "date": "2026-11-27",
-   "downloads": 90,
+   "downloads": 92,
    "update_checks": 30
   }
  ],
@@ -415,5 +415,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-27T00:39:30+00:00"
+ "updated": "2026-11-27T19:30:29+00:00"
 }

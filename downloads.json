@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-27T00:39:30+00:00",
+ "updated": "2026-11-27T19:30:29+00:00",
  "since": "2026-11-22",
- "downloads": 90,
+ "downloads": 92,
  "by_platform": {
   "Linux": 48,
-  "Windows": 30,
+  "Windows": 32,
   "macOS": 12
  },
  "by_version": {
-  "3.19.2": 12,
+  "3.19.2": 14,
   "3.19.1": 24,
   "3.19.0": 36,
   "3.18.5": 12,
@@ -21,8 +21,8 @@
   "MJSCalc-macOS-x86_64.dmg": 5,
   "MJSCalc-Setup-arm64.exe": 5,
   "MJSCalc-Setup-x64.exe": 7,
-  "MJSCalc-windows-arm64-portable.zip": 5,
-  "MJSCalc-windows-x64-portable.zip": 7,
+  "MJSCalc-windows-arm64-portable.zip": 6,
+  "MJSCalc-windows-x64-portable.zip": 8,
   "mjscalc.el10.aarch64.rpm": 7,
   "mjscalc.el10.x86_64.rpm": 7,
   "mjscalc.ubuntu.amd64.deb": 7,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-27",
-   "downloads": 90,
+   "downloads": 92,
    "update_checks": 30
   }
  ]
