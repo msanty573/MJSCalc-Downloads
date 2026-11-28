@@ -169,13 +169,13 @@
    "version": "3.19.2"
   },
   "update-macos-arm64.json": {
-   "count": 1,
+   "count": 2,
    "id": 794007702,
    "uploaded": "2026-11-26T02:28:03Z",
    "version": "3.19.2"
   },
   "update-macos-x86_64.json": {
-   "count": 1,
+   "count": 2,
    "id": 794020493,
    "uploaded": "2026-11-26T02:33:04Z",
    "version": "3.19.2"
@@ -285,6 +285,11 @@
    "date": "2026-11-27",
    "downloads": 92,
    "update_checks": 30
+  },
+  {
+   "date": "2026-11-28",
+   "downloads": 92,
+   "update_checks": 32
   }
  ],
  "retired": {
@@ -415,5 +420,5 @@
   }
  },
  "since": "2026-11-22",
- "updated": "2026-11-27T19:30:29+00:00"
+ "updated": "2026-11-28T02:12:03+00:00"
 }
